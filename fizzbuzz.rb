@@ -8,9 +8,6 @@ def fizzbuzz(number)
     puts "Fizz"
   elsif fnumber % 5 === 0
     puts "Buzz"
-  else
-    puts nil
-
-end
+  end
 
 end
