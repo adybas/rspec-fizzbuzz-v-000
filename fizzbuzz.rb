@@ -12,3 +12,5 @@ def fizzbuzz(number)
     puts nil
 
 end
+
+end
